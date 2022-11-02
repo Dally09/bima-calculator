@@ -26,6 +26,7 @@
                     <div role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-owns="list-31" class="v-input__slot">
                         <div class="v-select__slot">
                             <label for="carMakes" class="v-label theme--light error--text" style="left: 0px; right: auto; position: absolute;">Vehicle Make</label>
+                            <br>
                             <input id="carMakes" type="text" autocomplete="off">
                             <div class="v-input__icon v-input__icon--append">
                                 <i aria-hidden="true" class="v-icon notranslate mdi mdi-menu-down theme--light error--text">
@@ -46,6 +47,7 @@
                 <div role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-owns="list-34" class="v-input__slot">
                     <div class="v-select__slot">
                         <label for="carModels" class="v-label theme--light error--text" style="left: 0px; right: auto; position: absolute;">Vehicle Model</label>
+                        <br>
                         <input id="carModels" type="text" autocomplete="off">
                         <div class="v-input__append-inner">
                             <div class="v-input__icon v-input__icon--append">
@@ -68,6 +70,7 @@
                         <div role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-owns="list-45" class="v-input__slot">
                             <div class="v-select__slot">
                                 <label for="year" class="v-label theme--light" style="left: 0px; right: auto; position: absolute;">Year of Manufacture</label>
+                                <br>
                                 <input id="year" type="number" autocomplete="off">
                                 <div class="v-input__append-inner">
                                     <div class="v-input__icon v-input__icon--append">
