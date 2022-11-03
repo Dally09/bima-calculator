@@ -1,18 +1,21 @@
 form {
-    border: 2px solid #52B882;
+    border: 2px solid blue;
     padding: 8px;
     border-radius: 2px;
   }
   
   form:focus-within {
-    background: #7CF0BD;
+    background: blue;
   }
   
   label {
-    display: inline-block;
-    width: 72px;
+    text-align: center;
+    /* display: inline-block; */
+    /* width: 72px; */
+    margin: 0px 0px 0px 30px ;
   }
   
   input {
     margin: 4px 12px;
+    text-align: center;
   }
