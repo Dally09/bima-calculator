@@ -28,6 +28,7 @@
                             <label for="carMakes" class="v-label theme--light error--text" style="left: 0px; right: auto; position: absolute;">Vehicle Make</label>
                             <br>
                             <input id="carMakes" type="text" autocomplete="off">
+                            <div class="v-input__append-inner">
                             <div class="v-input__icon v-input__icon--append">
                                 <i aria-hidden="true" class="v-icon notranslate mdi mdi-menu-down theme--light error--text">
                                 </i>
