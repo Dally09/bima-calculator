@@ -7,7 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>APA INSURANCE</title>
+    <meta name="author" content="APA Insurance">
+    <meta name="description" content="Welcome to APA Insurance. Proceed to calculate your quotation premium.">
+    <meta name="theme-color" content="#114cac">
+
     <link rel="stylesheet" href="css/calculator.css" media="screen">
+    <!-- <link rel="stylesheet" href="css/vuetify.css" media="screen"> -->
     <!--
     <?php include 'views/head_links.php'; ?>
     -->
